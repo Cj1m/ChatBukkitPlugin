@@ -1,0 +1,7 @@
+name: ChatPlugin
+main: com.cj1mckay.chatplugin.ChatPlugin
+version: 1.0
+description: Separates chats on different maps/worlds
+commands:
+  g:
+    description: Send global chat message
